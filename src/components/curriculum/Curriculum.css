@@ -1,0 +1,35 @@
+html{
+  text-align: center;
+  background-color: #eae3c9;
+  min-height: 100vh;
+}
+
+
+.App-logo {
+  display: flex;
+  width: 90%;
+  height: 90%;
+  margin: 3px;
+}
+
+
+@media (max-width: 900px) {
+  .container {
+    margin: 0 3rem 90px;
+    text-align: right;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    margin: 0 0 90px;
+    text-align: right;
+  }
+}
+
+
+.App-link {
+  font-size: large;
+  color: #61dafb;
+  display: flex;
+}
