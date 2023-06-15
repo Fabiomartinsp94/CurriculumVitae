@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CurriculumVitae/static/css/main.b0380a8d.css",
-    "main.js": "/CurriculumVitae/static/js/main.a204aa40.js",
-    "static/js/787.a71561b8.chunk.js": "/CurriculumVitae/static/js/787.a71561b8.chunk.js",
-    "static/media/photo.png": "/CurriculumVitae/static/media/photo.e3ba76df40487dc7580c.png",
-    "static/media/bg-header.jpg": "/CurriculumVitae/static/media/bg-header.df6b2a9d7ab43a3d9db5.jpg",
-    "static/media/linkedin.png": "/CurriculumVitae/static/media/linkedin.a680cb8ad2b88be03d17.png",
-    "static/media/email.png": "/CurriculumVitae/static/media/email.26c40547e3a5cceca652.png",
-    "static/media/github.png": "/CurriculumVitae/static/media/github.7d664489ed331806ddc8.png",
-    "index.html": "/CurriculumVitae/index.html",
-    "main.b0380a8d.css.map": "/CurriculumVitae/static/css/main.b0380a8d.css.map",
-    "main.a204aa40.js.map": "/CurriculumVitae/static/js/main.a204aa40.js.map",
-    "787.a71561b8.chunk.js.map": "/CurriculumVitae/static/js/787.a71561b8.chunk.js.map"
+    "main.css": "/static/css/main.e200ed8f.css",
+    "main.js": "/static/js/main.f119f090.js",
+    "static/js/787.a71561b8.chunk.js": "/static/js/787.a71561b8.chunk.js",
+    "static/media/photo.png": "/static/media/photo.e3ba76df40487dc7580c.png",
+    "static/media/bg-header.jpg": "/static/media/bg-header.df6b2a9d7ab43a3d9db5.jpg",
+    "static/media/linkedin.png": "/static/media/linkedin.a680cb8ad2b88be03d17.png",
+    "static/media/email.png": "/static/media/email.26c40547e3a5cceca652.png",
+    "static/media/github.png": "/static/media/github.7d664489ed331806ddc8.png",
+    "index.html": "/index.html",
+    "main.e200ed8f.css.map": "/static/css/main.e200ed8f.css.map",
+    "main.f119f090.js.map": "/static/js/main.f119f090.js.map",
+    "787.a71561b8.chunk.js.map": "/static/js/787.a71561b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0380a8d.css",
-    "static/js/main.a204aa40.js"
+    "static/css/main.e200ed8f.css",
+    "static/js/main.f119f090.js"
   ]
 }
