@@ -16,7 +16,7 @@ function SocialMedia() {
   const social_medias: Array<SocialMedia> = [
     {name: "linkedin", link: "https://www.linkedin.com/in/fabiomartinsp/", icon: linkedin},
     {name: "github", link: "https://github.com/Fabiomartinsp94/", icon: github},
-    {name: "email", link: "fabiomartins.p@gmail.com", icon:email}
+    {name: "email", link: "mailto:fabiomartins.p@gmail.com", icon:email}
   ]
   // return (<p>{social_medias_names}</p>)  
 
