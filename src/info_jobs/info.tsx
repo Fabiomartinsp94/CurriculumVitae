@@ -34,9 +34,15 @@ interface CurriculumSection {
       name: "Experience", 
       description:[
         {
+          title: "Senior Software Engineer - Compasso Uol",
+          starting: "nov 2022",
+          finishing: "present",
+          attribution: "Responsible to migrate a complex Bank Reconciliation system from PL-SQL into Python, using AWS tools such as SNS, SQS, EKS, EMR, EC2, Fargate, Lambdas and AWS Batch."
+        },
+        {
           title: "Tech Lead - Devnology",
           starting: "dec 2021",
-          finishing: "present",
+          finishing: "nov 2020",
           attribution: "Manage a team and ensure delivery quality to the end customer. Find automation opportunities to decrease costs as well as manual and repetitive work. Keep codes, APIs, endpoints and database always in the best possible working order"
         },
         {
